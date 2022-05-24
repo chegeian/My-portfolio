@@ -5,7 +5,7 @@ let projects=[
     {projectName:"Claroom",projectDesc:"Here teacher can assign the tast and students can submit the pdf"},
 ]
 
-const text="I am a fullstack Developer and an Open Source Enthusiast ! "; 
+const text="I am a fullstack web developer ! "; 
 
 let index=0;
 
